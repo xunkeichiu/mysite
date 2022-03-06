@@ -30,7 +30,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Xuanqi](https://xuanqi.life/) 2022 -- {Year} | [Douban](https://www.douban.com/people/xuanqi1122/) | [Twitter](https://twitter.com/xieyihui)"
+  footer: "&copy; [Xuanqi](https://xuanqi.life/) 2022 -- {Year} | [Douban](https://www.douban.com/people/xuanqi1122/)"
 
 markup:
   highlight:
