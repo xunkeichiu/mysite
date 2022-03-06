@@ -2,7 +2,7 @@ baseurl: "https://xuanqi.life"
 languageCode: "en-us"
 title: "Xuanqi"
 theme: "hugo-xmin"
-googleAnalytics: ""
+googleAnalytics: "G-WS87Q8XEJL"
 disqusShortname: "xuanqi"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents: "↩"
