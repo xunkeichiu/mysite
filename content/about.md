@@ -1,9 +1,10 @@
 ---
 author: 宣棋|Xuanqi
-title: 
+title: 以文会友
 ---
-如果你只想阅读中文内容，点击：
-If you are only interested in my English writings, click:
-如果你想分类阅读，点击
-1.
-2.
+
+如果你想只阅读中文内容，[点击](https://xuanqi.netlify.app/wenzhang/)  
+
+For English writings only, [click](https://xuanqi.netlify.app/post/)
+
+（2022/03/09 🔗暂时有bug）
