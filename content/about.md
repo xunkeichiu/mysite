@@ -8,4 +8,4 @@ title: 以文会友
 
 Wish my life be like this site, simple and pure. 
 
-For English writings only, [click](https://xuanqi.netlify.app/note/) & Check my [SJC Writing collection](https://1drv.ms/u/s!AtMil6mu7v2riSqkqz-qJ_kgO_O_?e=aZXdOe)
+For English writings only, check my [SJC Writing collection](https://1drv.ms/u/s!AtMil6mu7v2riSqkqz-qJ_kgO_O_?e=aZXdOe) & [click](https://xuanqi.netlify.app/note/) & 
