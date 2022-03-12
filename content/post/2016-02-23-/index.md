@@ -5,6 +5,7 @@ date: '2016-02-23'
 slug: ''
 categories:
   - 阅读
+  - 传统文化
 tags:
   - 书评
 ---

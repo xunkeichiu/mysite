@@ -6,6 +6,7 @@ slug: ''
 categories:
   - 教育
   - 阅读
+  - 传统文化
 tags:
   - 我想回国开学校
 ---

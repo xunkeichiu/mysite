@@ -5,6 +5,7 @@ date: '2015-10-11'
 slug: '2015'
 categories:
   - 阅读
+  - 传统文化
 tags:
   - 书评
 ---
