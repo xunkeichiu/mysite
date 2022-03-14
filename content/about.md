@@ -4,7 +4,7 @@ title: 以文会友
 ---
 希望我的生活如同此處，簡簡單單、乾乾淨淨、清清白白。
 
-如果你想只阅读中文内容，[点击](https://xuanqi.netlify.app/post/)  
+如果妳想只閱讀中文內容，[點擊](https://xuanqi.netlify.app/post/)  
 
 Wish my life be like this site, simple and pure. 
 
