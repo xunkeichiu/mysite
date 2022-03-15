@@ -11,7 +11,7 @@ title: 以文会友
 
 Wish my life be like this site, simple and pure. 
 
-For English writings only, check:
+For writings in English, check:
 - [SJC writing collection](https://1drv.ms/u/s!AtMil6mu7v2riSqkqz-qJ_kgO_O_?e=aZXdOe) 
 - [Elements Teaching notes](https://xunkeichiu.github.io/euclid_teaching_en/)
 - [Blog collection](https://xuanqi.netlify.app/note/) 
