@@ -7,7 +7,7 @@ title: 以文会友
 如果妳想只閱讀中文內容：
 - [博客中文合集](https://xuanqi.netlify.app/post/)  
 - 写作：[《几何原本》教学手记](https://xunkeichiu.github.io/euclid_teaching/)
-- 翻译：[《几何原本》欧几里得《几何原本》第一卷以及可讨论的问题](https://xunkeichiu.github.io/euclid_translation/)
+- 翻译：[ 欧几里得《几何原本》第一卷以及可讨论的问题](https://xunkeichiu.github.io/euclid_translation/)
 
 Wish my life be like this site, simple and pure. 
 
