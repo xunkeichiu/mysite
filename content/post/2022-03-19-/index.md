@@ -2,7 +2,7 @@
 title: '关于周末社区的设计: 理念和想法'
 author: 宣棋
 date: '2022-03-19'
-slug: ''
+slug: 'aatest'
 categories:
   - 教育
 tags:
