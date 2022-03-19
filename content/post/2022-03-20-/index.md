@@ -1,7 +1,7 @@
 ---
 title: 自主学习指南（三）
 author: 宣棋
-date: '2022-03-20'
+date: '2022-03-19'
 slug: ''
 categories:
   - 教育
