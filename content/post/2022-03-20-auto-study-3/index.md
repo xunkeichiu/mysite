@@ -1,7 +1,7 @@
 ---
 title: 自主学习指南(三)
 author: 宣棋
-date: '2022-03-19'
+date: '2022-03-20'
 slug: auto_study_3
 categories:
   - 日记
