@@ -15,3 +15,4 @@ For writings in English, check:
 - [SJC writing collection](https://1drv.ms/u/s!AtMil6mu7v2riSqkqz-qJ_kgO_O_?e=aZXdOe) 
 - [Elements Teaching Notes](https://xunkeichiu.github.io/euclid_teaching_en/)
 - [Blog collection](https://xuanqi.netlify.app/note/) 
+- [42](https://1drv.ms/u/s!AtMil6mu7v2rig9ozNf8Dgg6UHzd)
