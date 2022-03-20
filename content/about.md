@@ -16,3 +16,5 @@ For writings in English, check:
 - [Elements Teaching Notes](https://xunkeichiu.github.io/euclid_teaching_en/)
 - [Blog collection](https://xuanqi.netlify.app/note/) 
 - [42](https://1drv.ms/u/s!AtMil6mu7v2rig9ozNf8Dgg6UHzd)
+
+联系Contact: xuanqipro@gmail.com
